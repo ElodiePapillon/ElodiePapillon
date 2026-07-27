@@ -14,13 +14,13 @@ Je conçois et partage des **travaux ouverts** au croisement de la science, du d
 
 ### 📌 Mes travaux
 
-| Projet | Description | Licence |
-|--------|-------------|---------|
-| [proposition-loi-AFV](https://github.com/ElodiePapillon/proposition-loi-AFV) | Proposition de loi créant le statut d'Aliment à Fonction Vaccinale (AFV) — document de travail citoyen, libre de reprise et de dépôt. | CC BY 4.0 |
-| [vaccin-levure-de-biere](https://github.com/ElodiePapillon/vaccin-levure-de-biere) | Dossier technique et budgétaire, références scientifiques et tribune sur le vaccin oral à levure. | CC BY 4.0 |
-| [Resilience-Nationale-Infrastructures-Critiques](https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques) | Résilience numérique nationale des infrastructures critiques en cas de crise. | CC BY 4.0 |
-| [Projet-Glacieres-Fraicheur](https://github.com/ElodiePapillon/Projet-Glacieres-Fraicheur) | Rafraîchissement urbain passif inspiré des glacières anciennes, avec notes de préfiguration pour collectivités. | CC BY 4.0 |
-| [Mines-Vivantes](https://github.com/ElodiePapillon/Mines-Vivantes) | Reconversion des anciens sites miniers pollués en infrastructures écologiques actives. | CC BY 4.0 |
+| Projet | Description | Licence | DOI |
+|--------|-------------|---------|--------|
+| [proposition-loi-AFV](https://github.com/ElodiePapillon/proposition-loi-AFV) | Proposition de loi créant le statut d'Aliment à Fonction Vaccinale (AFV) — document de travail citoyen, libre de reprise et de dépôt. | CC BY 4.0 | [10.5281/zenodo.21632400](https://doi.org/10.5281/zenodo.21632400) |
+| [vaccin-levure-de-biere](https://github.com/ElodiePapillon/vaccin-levure-de-biere) | Dossier technique et budgétaire, références scientifiques et tribune sur le vaccin oral à levure. | CC BY 4.0 | [10.5281/zenodo.21632382](https://doi.org/10.5281/zenodo.21632382) |
+| [Resilience-Nationale-Infrastructures-Critiques](https://github.com/ElodiePapillon/Resilience-Nationale-Infrastructures-Critiques) | Résilience numérique nationale des infrastructures critiques en cas de crise. | CC BY 4.0 | [10.5281/zenodo.21632414](https://doi.org/10.5281/zenodo.21632414) |
+| [Projet-Glacieres-Fraicheur](https://github.com/ElodiePapillon/Projet-Glacieres-Fraicheur) | Rafraîchissement urbain passif inspiré des glacières anciennes, avec notes de préfiguration pour collectivités. | CC BY 4.0 | [10.5281/zenodo.21632406](https://doi.org/10.5281/zenodo.21632406) |
+| [Mines-Vivantes](https://github.com/ElodiePapillon/Mines-Vivantes) | Reconversion des anciens sites miniers pollués en infrastructures écologiques actives. | CC BY 4.0 | [10.5281/zenodo.21632424](https://doi.org/10.5281/zenodo.21632424) |
 
 ### ℹ️ Comment lire ces travaux
 
@@ -32,9 +32,9 @@ Toute contribution, objection ou question est la bienvenue. Chaque dépôt dispo
 
 ### 📝 Citer ces travaux
 
-Chaque dépôt contient un fichier CITATION.cff permettant une citation automatique via le bouton **Cite this repository**. Format général :
+Chaque dépôt est archivé sur **Zenodo** (CERN) et possède un **DOI permanent** (colonne DOI du tableau ci-dessus), ainsi qu'un fichier CITATION.cff permettant une citation automatique via le bouton **Cite this repository**. Format général :
 
-> Papillon, É. (2026). *Titre du dépôt*. Dépôt GitHub. URL
+> Papillon, É. (2026). *Titre du dépôt*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
 
 ### 📫 Me contacter
 
